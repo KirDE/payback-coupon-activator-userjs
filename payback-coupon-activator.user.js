@@ -3,6 +3,8 @@
 // @id             payback-coupon-activator
 // @category       Misc
 // @version        0.1
+// @updateURL      https://github.com/KirDE/payback-coupon-activator-userjs/raw/main/payback-coupon-activator.user.js
+// @downloadURL    https://github.com/KirDE/payback-coupon-activator-userjs/raw/main/payback-coupon-activator.user.js
 // @author         KirillDE
 // @description    Activate all Payback coupons
 // @match          https://payback.de/*
